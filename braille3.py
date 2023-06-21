@@ -2,7 +2,8 @@
 """
 Created on Wed Jun 21 21:37:47 2023
 
-@author: DIPTENDU
+@author: ARIDEEPA
+
 """
 
 braille_mapping = {
